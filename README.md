@@ -17,7 +17,7 @@ Aplikace pro správu objednávek jídla mezi kolegy.
 Pokud máte přístup k repozitáři, můžete ho naklonovat:
 
 ```sh
-git clone <repo-url>
+git clone https://github.com/oondra31/objednavkovy_system.git
 cd objednavkovy_system
 ```
 
